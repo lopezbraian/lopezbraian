@@ -4,7 +4,7 @@
 **BraianLopez10/BraianLopez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
-![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=BraianLopez10&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BraianLopez10)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
