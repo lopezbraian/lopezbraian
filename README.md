@@ -1,13 +1,35 @@
-# Hi, I'm Braian! 🧙‍♂️
 
+# Hi! Welcome to my github! 👋 
+![Profile views](https://gpvc.arturio.dev/lopezbraian)
+
+<div align="center">
+	<h1>Braian Emanuel López</h1>
+</div>
+
+## About me :mortar_board:
+- I'm a **front-end developer**.<br>
+- Crypto nerd 🤓 and blockchain fundamentalist 🔗. <br> 
+- I was living in Argentina 🇦🇷 and Spain 🇪🇸. <br>
+- Enthusiast and curious by nature, always looking for new challenges. <br> 
+- An amateur football player.<br>
+- Currently working on improving my skills and discovering this beautiful and infinite universe of programming.
+
+## What I know :computer:
+  ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopezbraian&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-## 🚀 About Me
-I'm a full stack developer , I'm always learning new ways to improve me myself and my code.
+## What I want to do next :thinking:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-  
-## 🛠 Skills
-Javascript, HTML, CSS , React , Node , Express , MongoDB
-
-
-  
+## Interesting stats 📈
+<div align="center">
+<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopezbraian">
+</div>
