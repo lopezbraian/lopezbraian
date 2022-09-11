@@ -7,11 +7,9 @@
 </div>
 
 ## About me :mortar_board:
-- I'm a **front-end developer**.<br>
+- I'm a **Full Stack Javascript Developer**.<br>
 - I live in 🇦🇷 <br>
 - Enthusiast and curious by nature, always looking for new challenges. <br> 
-- An amateur football player.<br>
-- Currently working on improving my skills and discovering this beautiful and infinite universe of programming.
 
 ## What I know :computer:
   ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
