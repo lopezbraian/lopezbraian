@@ -1,6 +1,5 @@
 
 # Hi! Welcome to my github! 👋 
-![Profile views](https://gpvc.arturio.dev/lopezbraian)
 
 <div align="center">
 	<h1>Braian Emanuel López</h1>
